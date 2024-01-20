@@ -24,4 +24,4 @@ This is a Snake clonce I made using JavaScript, HTML & CSS. It is my version of 
  
  
 ## Wireframes
-Primitive Design of the game
+https://whimsical.com/wynn-snake-WiXW7Z1kvm8WK9fkfm8LFr
